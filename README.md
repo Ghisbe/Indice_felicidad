@@ -5,14 +5,13 @@
 
 Continuidad de un trabajo realizado en ISPC, en este caso analizando los datos del año 2020 al 2024.
 Parte I:
-Union de los diferentes data set, eliminacion de valores nulos.
-Segmentacion de columas a trabajar.
-Analisis estadistico
+Unión de los diferentes data set, eliminación de valores nulos.
+Segmentación de columnas a trabajar.
+Análisis estadîstico
 
-Parte II: se continuara con los analisis y ademas se analizara las variables de Social support y Perceptions of corruption con mas profundidad.
+Parte II: se continuará con los análisis y además se analizará las variables de Social support y Perceptions of corruption con mas profundidad.
 Enfasis a Argentina.
 
-Parte III: informe.
 
 Fuente de datos:
 https://worldhappiness.report/?gad_source=1
